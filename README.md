@@ -1,4 +1,4 @@
-# 📋 Task Manager App
+# Task Manager App
 
 A full-stack Task Manager application built with Node.js, Express, MongoDB, and Vanilla JavaScript. Users can register, login, and manage their personal tasks.
 
@@ -85,7 +85,7 @@ Getting Started
    http://localhost:3000
    ```
 
- 🔌 API Endpoints
+API Endpoints
 
 # Auth Routes
 | Method | Endpoint | Description | Auth Required |
@@ -146,6 +146,6 @@ Deploy to Render
 Author
 Dawood — Built as a Node.js learning project for beginner
 
- 📄 License
+License
 
 MIT

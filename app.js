@@ -48,4 +48,4 @@ app.put('/tasks/:id/title', authMiddleware, async (req, res) => {
   res.json(task)
 })
 
-app.listen(3000, () => console.log('🚀 Server running on http://localhost:3000'))
+app.listen(3000, () => console.log('Server running on http://localhost:3000'))
